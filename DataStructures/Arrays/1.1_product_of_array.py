@@ -29,7 +29,7 @@ def solution(arr):
 
 def solution_2(arr):
     """
-    Product at i is equal to prefix_products[i-1 * suffix_products[i+1]
+    Product at i is equal to prefix_products[i-1] * suffix_products[i+1]
 
     Time: O(n)
     Space: O(n) - creating two new arrays
