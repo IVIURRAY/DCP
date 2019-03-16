@@ -1,4 +1,6 @@
 # DCP
 Daily Coding Problem Book
 
-- A repo for solution to the book Daily Coding Problems
+- A repo for my attempts at the Daily Coding Problems
+
+# Note: Please do not ask me to scan a copy of this book to you.
